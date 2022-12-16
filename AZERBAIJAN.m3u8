@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a3/Xezer_TV_logo.jpg" group-title="AZERBAIJAN",Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://img.day.az/2019/09/16/800x550/nload.jpg" group-title="AZERBAIJAN",AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/ictimaitv-min.png" group-title="AZERBAIJAN",Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/medeniyyet-vipotv.png" group-title="AZERBAIJAN",Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",ATV
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Space_TV_%282021-h.h.%29.png/revision/latest?cb=20220404214759" group-title="AZERBAIJAN",Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="AZERBAIJAN",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Azad_Azerbaycan_TV_logosu.png" group-title="AZERBAIJAN",ATV
+http://85.132.81.184:8080/atv/index.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://arbtv.az/assets/uploads/events/1.arbtv.png" group-title="AZERBAIJAN",Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/b6i8byT.png" group-title="AZERBAIJAN",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://cdn.azerforum.com/2021/04/01/1516089.jpg" group-title="AZERBAIJAN",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" group-title="AZERBAIJAN",Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://static.report.az/photo/c85c27af-571e-4c62-bcd0-161bd89efda2_850.jpg" group-title="AZERBAIJAN",CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://www.cbcsport.az/assets_new/logo/logo.png" group-title="AZERBAIJAN",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png" group-title="AZERBAIJAN",Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/dalgatvaz.png" group-title="AZERBAIJAN",Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/EL_TV_%282020-h.h.%29.png" group-title="AZERBAIJAN",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://photos.live-tv-channels.org/tv-logo/az-muz-tv-8089-768x576.jpg" group-title="AZERBAIJAN",MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/mugan-tv-live-vipotv-azerbaycan.png" group-title="AZERBAIJAN",Muğan TV (1080p) [Not 24/7]
+http://cdn10-mugantv.yayin.com.tr/mugantv/mugantv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://vipotv.com/wp-content/uploads/2021/06/Qebele-TV-izle-vipotv-azerbaycan-.png" group-title="AZERBAIJAN",Qabala Tv
+https://qebele.tv/live/stream/1669564512016.ts
